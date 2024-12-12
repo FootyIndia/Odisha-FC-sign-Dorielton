@@ -1,0 +1,58 @@
+*{
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Lato', sans-serif;  
+}
+
+nav{
+    top:0;
+}
+
+body{
+    padding-top: 70px;
+}
+.navbar{
+    padding:10px 25px 10px 25px;
+}
+
+li{
+    padding-right: 20px;
+}
+
+.instagram,.twitter{
+    margin-right:40px;
+}
+
+#Breaking, #Transfers,#NationalTeam,#ISL, #About, #Contact{
+    padding: 8px 25px 8px 25px;
+}
+
+.body-content, .other-articles{
+    padding:10px 25px 10px 25px;
+}
+
+.author{
+    margin-top:5px;
+}
+
+.cover{
+    object-fit: cover;
+    height: auto;
+    max-width: 100%;
+    margin-bottom:15px;
+}
+
+.badge-class{
+    text-align:center;
+    display: block;
+    font-size: 1.5rem;
+    
+}
+.other-links{
+    margin-bottom: 5px;
+}
+.small-text{
+    text-align: left;
+    font-weight:bold;
+    margin-top: 7px;
+    margin-bottom:7px;
+}
